@@ -10,3 +10,4 @@ Once you know its IP you can open a browser and point to it to upload your new f
 
 Also, make sure if connecting to router or AP, you set those settings in menuconfig under "OTA WiFi Confinguration"
   
+![OTAWebserver](https://user-images.githubusercontent.com/6456652/62404696-fe067c00-b55b-11e9-98df-09f0a107ba3f.png)
