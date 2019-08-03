@@ -8,6 +8,11 @@ Run this program in conjunction with the COM port so you can see what IP it was 
  
 Once you know its IP you can open a browser and point to it to upload your new firmware .bin file. After the file has been uploaded it will apply it and reboot. Check the terminal to watch the info to see whats going on.  
 
-Also, make sure if connecting to router or AP, you set those settings in menuconfig under "OTA WiFi Confinguration"
+Also, make sure if connecting to router or AP, you set those settings in menuconfig under "OTA WiFi Configuration"
+
+
+
+
+
   
 ![OTAWebserver](https://user-images.githubusercontent.com/6456652/62404696-fe067c00-b55b-11e9-98df-09f0a107ba3f.png)
